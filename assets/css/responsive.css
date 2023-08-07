@@ -1,0 +1,763 @@
+@media screen and (max-width: 575.99px){
+
+
+    /* ==================== Eprovent-pricing responsive area srtart =================  */
+    .epro-priceing-item {
+        margin-bottom: 30px;
+        text-align: center;
+        padding: 30px 0;
+        border-radius: 10px;
+    }
+    .epro-priceitem-toptext {
+        padding-bottom: 40px;
+    }
+
+    .epro-priceitem-inner-list ul li i {
+        display: none;
+    }
+    .epro-priceitem-inner-list {
+        padding: 0 5px;
+    }
+
+    .epro-priceitem-toptext h3 {
+        font-size: 35px;
+    }
+    .epro-priceitem-inner-list ul li {
+        margin-bottom: 10px;
+    }
+    .epro-priceitem-btn button {
+        padding: 9px 10px;
+    }
+    .epro-priceitem-inner-list ul li a {
+        font-size: 13px;
+    }
+    .luminus-priceing-item {
+        padding: 40px 5px;
+    }
+    .lumi-price-item-innerlist ul li a {
+        font-size: 13px;
+    }
+    .epro-priceitem-btn button i {
+        display: none;
+    }
+
+    /* ==================== Eprovent-pricing responsive area end =================  */
+
+    /* ==================== luminus-pricing responsive area srtart =================  */
+
+    .luminus-priceing-item {
+        margin-bottom: 30px;
+    }
+    .lumi-price-item-btn button {
+        padding: 8px 7px;
+    }
+    .lumi-priceTop-icon i {
+        font-size: 40px;
+        padding: 20px;
+    }
+
+    /* ==================== luminus-pricing responsive area end =================  */
+
+    /* ==================== kitshop-pricing responsive area srtart =================  */
+
+    .kitshop-pricing-item {
+        margin-bottom: 30px;
+        padding: 30px 10px;
+    }
+    .kit-pricitem-inner-top h2 {
+        font-size: 20px;
+    }
+
+    .kit-pricitem-inner-btm ul li a {
+        font-size: 13px;
+    }
+
+    .kit-pricing-inner-btn button {
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+
+    /* ==================== kitshop-pricing responsive area end =================  */
+
+    /* ==================== jackpot-pricing responsive area srtart =================  */
+
+    .jackpot-pricing-item {
+        margin-bottom: 30px;
+        box-shadow: none;
+        margin: 0;
+        border: 1px solid #dddd;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+    .jack-pricing-innter-top::before {
+        display: none;
+    }
+    .jack-pricing-innter-top::after {
+        display: none;
+    }
+
+    .jack-pricing-innter-top {
+        padding: 20px 5px;
+    }
+    .jack-pricing-innter-top h3 {
+        font-size: 18px;
+    }
+    .jack-pricing-innter-top h2 {
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+    .jackpot-pricing-body ul li a {
+        font-size: 14px;
+    }
+
+
+    /* ==================== jackpot-pricing responsive area end =================  */
+
+    /* ==================== kidsure-pricing responsive area srtart =================  */
+
+    .kidsure-pricing-item {
+        margin-bottom: 30px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 30px;
+    }
+
+    .kidsure-pricing-item:hover {
+        margin-top: 0;
+    }
+
+    .most-popular {
+        top: -30px;
+        right: 5px;
+        padding: 0;
+        width: 60px;
+        height: 60px;
+    }
+
+    .kid-pricing-inner-text {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+    .kid-pricing-inner-text h2 {
+        font-size: 45px;
+        margin-right: 5px;
+        margin-bottom: 8px;
+    }
+    .kid-pricing-inner-title {
+        margin-bottom: 30px;
+        justify-content: center;
+    }
+
+    .kpt-inner-Tlist::after {
+        display: none;
+    }
+
+    .kid-pricing-inner-list {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .kid-pricing-inner-list ul li::after {
+        display: none;
+    }
+
+    .kid-pricing-inner-btn button {
+        padding: 10px 30px;
+    }
+
+    .kid-pricing-inner-title i {
+        font-size: 20px;
+        padding: 7px;
+    }
+
+    /* ==================== kidsure-pricing responsive area end =================  */
+
+    /* ==================== dizme-pricing responsive area srtart =================  */
+
+    .dizme-pricing-item {
+        margin-bottom: 30px;
+    }
+
+    .sefler-pricing-item {
+        margin-bottom: 100px;
+    }
+    .diz-pricing-inner-top p {
+        font-size: 13px;
+    }
+
+    .dizp-inner-price h3 {
+        padding: 15px 0;
+        font-size: 35px;
+    }
+    .diz-price-item-innerlist ul li {
+        font-size: 13px;
+        padding: 10px 0;
+    }
+    .diz-price-item-innerlist button {
+        padding: 10px 25px;
+    }
+
+    /* ==================== dizme-pricing responsive area end =================  */
+
+    /* ==================== selfer-pricing responsive area srtart =================  */
+
+    .selfer {
+        padding-bottom: 30px;
+    }
+    .sel-pCOL{
+        margin: 0 !important;
+    }
+    .selfer-pricing-item-title {
+        background: transparent;
+        width: 100%;
+        left: 0;
+        padding-top: 0;
+    }
+
+    .spi-two .selfer-pricing-item-title{
+        background: transparent;
+    }
+
+    .spi-three .selfer-pricing-item-title{
+        background: transparent;
+    }
+
+    .selfer-pricing-item-title h4 {
+        font-size: 20px;
+        color: #000;
+        text-align: center;
+    }
+
+    .selfer-pricing-item-title::before {
+        display: none;
+    }
+    .selfer-pricing-item-title::after {
+        display: none;
+    }
+    .sefler-pricing-item {
+        padding-top: 110px;
+        position: relative;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .selfer-pricing-item-text h3 {
+        font-size: 30px;
+    }
+    .selfer-pricing-item-text h3 sup {
+        font-size: 20px;
+        left: -3px;
+    }
+    .selfer-pricing-inner-list ul li {
+        font-size: 13px;
+    }
+    .selfer-pricing-inner-btn button {
+        padding: 10px 10px;
+
+    }
+    .sel-pricing-item-btm-shape {
+        bottom: -50px;
+        height: 50px;
+    }
+
+    /* ==================== selfer-pricing responsive area end =================  */
+
+    /* ==================== zommy-pricing responsive area srtart =================  */
+
+    .zoomy-pCol{
+        padding: 0 12px !important;
+    }
+
+    .zoomy-pricing-item {
+        padding-top: 50px;
+        margin-bottom: 30px;
+        border-radius: 10px;
+        box-shadow: none !important;
+    }
+
+    .zommy-pItem-one .zommy-pricing-inner-list ul li {
+        padding: 10px 5px;
+    }
+
+    .zommy-pItem-one .zommy-pricing-inner-text {
+        margin-bottom: 40px;
+    }
+    .zommy-pricing-inner-text h2 {
+        font-size: 30px;
+    }
+
+    /* ==================== zommy-pricing responsive area end =================  */
+
+}
+
+
+@media screen and (min-width: 576px) and (max-width: 767.99px) {
+
+    /* ====================== eprovent pricing area start =========================*/
+
+    .epro-priceing-item {
+        margin-bottom: 30px;
+        padding: 40px 0;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+    .epro-priceitem-inner-list {
+        padding: 0 30px;
+    }
+    .epro-priceitem-btn button {
+        padding: 12px 20px;
+    }
+
+    /* ====================== eprovent pricing area end =========================*/
+
+    /* ====================== luminus pricing area start =========================*/
+
+    .luminus-priceing-item {
+        padding: 35px 20px;
+        margin-bottom: 30px;
+    }
+
+    /* ====================== luminus pricing area end =========================*/
+    
+
+    /* ====================== kitshop pricing area start =========================*/
+
+    .kitshop-pricing-item {
+        margin-bottom: 30px;
+    }
+
+    /* ====================== kitshop pricing area end =========================*/
+
+    /* ====================== jackpot pricing area start =========================*/
+
+    .jack-pricing-innter-top::after {
+        width: 100px;
+        height: 40px;
+        right: -20%;
+        top: -6%;
+    }
+
+    .jack-pricing-innter-top h3 {
+        margin-top: 10px;
+    }
+
+    .jack-pricing-innter-top h2 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    /* ====================== jackpot pricing area end =========================*/
+
+    /* ====================== kidsure pricing area start =========================*/
+
+    .kidsure-pricing-item {
+        margin-bottom: 30px;
+    }
+
+    .kidsure-pricing-item:hover {
+        margin-top: 0;
+    }
+
+    .kid-pricing-inner-btn button {
+        padding: 10px 60px;
+    }
+
+    .kid-pricing-inner-text h2 {
+        font-size: 49px;
+    }
+
+    /* ====================== kidsure pricing area end =========================*/
+
+    /* ====================== dizme pricing area start =========================*/
+
+    .dizme-pricing-item {
+        margin-bottom: 30px;
+    }
+
+    /* ====================== dizme pricing area end =========================*/
+
+    /* ====================== selfer pricing area start =========================*/
+
+    .sel-pCOL{
+        margin: 0 !important;
+    }
+
+    .selfer-pricing-item-title {
+        left: -16px;
+        padding: 10px 0;
+    }
+    .selfer-pricing-item-title::before {
+        width: 16px;
+        height: 15px;
+        bottom: -15px;
+    }
+
+    .selfer-pricing-item-title::after {
+        width: 16px;
+        height: 16px;
+        left: 0px;
+        bottom: -16px;
+    }
+
+    .sefler-pricing-item {
+        margin-bottom: 110px;
+    }
+    .spi-three{
+        margin-bottom: 0;
+    }
+
+    /* ====================== selfer pricing area end =========================*/
+    
+    /* ====================== zoomy pricing area start =========================*/
+
+    .zoomy-pricing-item {
+        margin-bottom: 30px;
+    }
+
+    .zommy-pricing-inner-list ul li {
+        font-size: 16px;
+    }
+
+    .zommy-pItem-two {
+        box-shadow: none;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    .zommy-pItem-three {
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        box-shadow: none;
+    }
+
+    .zommy-pItem-four {
+        box-shadow: none;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    .zommy-pItem-five {
+        box-shadow: none;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+
+
+    /* ====================== zoomy pricing area end =========================*/
+    
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.99px) {
+
+        
+    /* ====================== epro pricing area start =========================*/
+
+    .epro-priceing-item {
+        padding: 35px 0;
+        border-radius: 10px;
+    }
+
+    .epro-priceitem-inner-list {
+        padding: 0px 20px;
+    }
+
+    .epro-priceitem-btn button {
+        padding: 15px 20px;
+    }
+
+            
+    /* ====================== epro pricing area end =========================*/
+        
+    /* ====================== luminus pricing area start =========================*/
+
+    .luminus-priceing-item {
+       margin-bottom: 35px;
+    }
+    .luminus-priceing-item {
+        padding: 35px 10px;
+    }
+    .lumi-priceTop-icon i {
+        font-size: 40px;
+        padding: 25px;
+    }
+            
+    /* ====================== luminus pricing area end =========================*/
+        
+    /* ====================== kitshop pricing area start =========================*/
+
+    .kid-pricing-inner-btn button {
+        padding: 10px 45px;
+    }
+
+    /* ====================== kitshop pricing area end =========================*/
+        
+    /* ====================== kidsure pricing area start =========================*/
+
+    .kidsure-pricing-item {
+        margin-bottom: 50px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .kidsure-pricing-item:hover {
+        margin-top: -20px;
+    }
+    .kid-pricing-inner-text h2 {
+        font-size: 50px;
+        margin-right: 10px;
+    }
+
+    /* ====================== kidsure pricing area end =========================*/
+        
+    /* ====================== dizme pricing area start =========================*/
+
+    .dizme-pricing-item {
+        margin-bottom: 30px;
+    }
+    /* ====================== dizme pricing area end =========================*/
+
+    
+    /* ====================== selfer pricing area start =========================*/
+
+    .selfer{
+        padding-bottom: 0;
+    }
+
+    .sel-pCOL{
+        margin: 0 !important;
+    }
+
+    .selfer-pricing-item-title {
+        left: -17px;
+        padding: 10px 0;
+        width: 117%;
+    }
+    .selfer-pricing-item-title::before {
+        width: 16px;
+        height: 15px;
+        bottom: -15px;
+    }
+
+    .selfer-pricing-item-title::after {
+        width: 16px;
+        height: 16px;
+        left: 0px;
+        bottom: -15px;
+    }
+
+    .sefler-pricing-item {
+        margin-bottom: 110px;
+    }
+    .spi-three{
+        margin-bottom: 0;
+    }
+    .selfer-pricing-item-title h4::after {
+        bottom: -99%;
+    }
+
+    /* ====================== selfer pricing area end =========================*/
+
+    /* ====================== zommy pricing area end =========================*/
+
+    .zommy-pricing-inner-text h2 {
+        font-size: 28px;
+        margin: 5px 0;
+    }
+
+    .zommy-pricing-inner-text p {
+        font-size: 13px;
+    }
+
+    .zommy-pItem-three .zommy-pricing-inner-text, .zommy-pItem-four .zommy-pricing-inner-text, .zommy-pItem-five .zommy-pricing-inner-text {
+        margin-top: -25px;
+    }
+
+    .zommy-pricing-inner-list ul li i {
+        font-size: 17px;
+    }
+    .zommy-pricing-inner-list button {
+        padding: 5px 30px;
+    }
+
+    /* ====================== zommy pricing area end =========================*/
+
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199.99px) {
+
+    /* ====================== eprovent pricing area end =========================*/
+    
+    .epro-priceing-item {
+        padding: 40px 0;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+    .epro-priceitem-inner-list {
+        padding: 0 20px;
+    }
+    .epro-priceitem-btn button {
+        padding: 12px 20px;
+    }
+
+    /* ====================== eprovent pricing area end =========================*/
+
+
+    /* ====================== luminus pricing area end =========================*/
+    
+    .luminus-priceing-item {
+        padding: 30px 20px;
+    }
+
+    .lumi-priceTop-icon i {
+        font-size: 40px;
+        padding: 25px;
+    }
+
+    /* ====================== luminus pricing area end =========================*/
+
+
+    /* ====================== jackpot pricing area end =========================*/
+
+    .jack-pricing-innter-top::after {
+        width: 120px;
+        height: 47px;
+        right: -24%;
+        top: -7%;
+    }
+
+    /* ====================== jackpot pricing area end =========================*/
+
+
+    /* ====================== kidsure pricing area end =========================*/
+    
+    .kidsure-pricing-item {
+        padding-top: 40px;
+        padding-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    
+    .kid-pricing-inner-btn button {
+        padding: 10px 50px;
+    }
+
+    .kid-pricing-inner-text h2 {
+        font-size: 55px;
+        margin-right: 10px;
+    }
+
+    /* ====================== kidsure pricing area end =========================*/
+
+
+    /* ====================== selfer pricing area end =========================*/
+
+    .selfer-pricing-item-title {
+        width: 122%;
+    }
+
+
+    /* ====================== selfer pricing area end =========================*/
+
+
+    /* ====================== zommy pricing area end =========================*/
+
+    .zommy-pricing-inner-list ul li i {
+        font-size: 17px;
+        color: #fff;
+    }
+
+    /* ====================== zommy pricing area end =========================*/
+
+
+
+}
+@media screen and (min-width: 1200px) and (max-width: 1399.99px) {
+
+    /* ====================== eprovent pricing area end =========================*/
+    
+    .epro-priceing-item {
+        padding: 40px 0;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+    .epro-priceitem-inner-list {
+        padding: 0 40px;
+    }
+    .epro-priceitem-btn button {
+        padding: 12px 20px;
+    }
+
+    /* ====================== eprovent pricing area end =========================*/
+
+
+    /* ====================== luminus pricing area end =========================*/
+    
+    .luminus-priceing-item {
+        padding: 30px 20px;
+    }
+
+    .lumi-priceTop-icon i {
+        font-size: 40px;
+        padding: 25px;
+    }
+
+    /* ====================== luminus pricing area end =========================*/
+
+
+
+
+    /* ====================== kidsure pricing area end =========================*/
+    
+    .kidsure-pricing-item {
+        padding-top: 40px;
+        padding-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    
+    .kid-pricing-inner-btn button {
+        padding: 10px 50px;
+    }
+
+    /* ====================== kidsure pricing area end =========================*/
+
+
+    /* ====================== selfer pricing area end =========================*/
+
+    .selfer-pricing-item-title {
+        width: 118%;
+    }
+
+
+    /* ====================== selfer pricing area end =========================*/
+
+
+    /* ====================== zommy pricing area end =========================*/
+
+    .zommy-pricing-inner-list ul li i {
+        font-size: 17px;
+        color: #fff;
+    }
+
+    /* ====================== zommy pricing area end =========================*/
+
+
+
+}
